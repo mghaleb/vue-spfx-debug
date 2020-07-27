@@ -1,6 +1,6 @@
 # vue
 
-This project uses [VueJS](https://vuejs.org).
+This project uses [VueJS](https://vuejs.org). with TypeScript
 
 > This is where you include your project's documentation.
 
